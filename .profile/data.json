@@ -1,0 +1,423 @@
+{
+ "key": "94452ca8",
+ "stars": 21,
+ "contributions": 826,
+ "repos": 26,
+ "followers": 7,
+ "languages": [
+  [
+   "Java",
+   220094
+  ],
+  [
+   "HTML",
+   22707
+  ],
+  [
+   "Python",
+   21753
+  ],
+  [
+   "Kotlin",
+   10245
+  ],
+  [
+   "JavaScript",
+   9817
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 15
+ },
+ "pins": [
+  {
+   "name": "RevancedMusic",
+   "url": "https://github.com/rapid4ik/RevancedMusic",
+   "text": "YouTube-Music Revanced patching with Revancify Tools (Root & Non-Root)",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": [
+    "magisk-module",
+    "magisk-modules",
+    "revanced",
+    "revanced-builder",
+    "revanced-extended",
+    "revanced-music",
+    "revanced-patches",
+    "youtube-music"
+   ]
+  },
+  {
+   "name": "ColorPickerIDE",
+   "url": "https://github.com/rapid4ik/ColorPickerIDE",
+   "text": "Отображает конечные цвета не только на \"new Color()\"",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "rapid4ik.github.io",
+   "url": "https://github.com/rapid4ik/rapid4ik.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "MyJavaHelpersClasses",
+   "url": "https://github.com/rapid4ik/MyJavaHelpersClasses",
+   "text": "by ai",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "YouTube-Anti-Freeze",
+   "url": "https://github.com/rapid4ik/YouTube-Anti-Freeze",
+   "text": "Автоматически перезагружает YouTube видео, если оно зависает на 19-й секунде",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "re-extera-pub-last",
+   "url": "https://github.com/rapid4ik/re-extera-pub-last",
+   "text": "re-extera for last",
+   "fork": true,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MyJavaHelpersClasses",
+   "url": "https://github.com/rapid4ik/MyJavaHelpersClasses",
+   "text": "by ai",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SlCore",
+   "url": "https://github.com/rapid4ik/SlCore",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "YouTube-Anti-Freeze",
+   "url": "https://github.com/rapid4ik/YouTube-Anti-Freeze",
+   "text": "Автоматически перезагружает YouTube видео, если оно зависает на 19-й секунде",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "rapid4ik.github.io",
+   "url": "https://github.com/rapid4ik/rapid4ik.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "RevancedMusic",
+   "url": "https://github.com/rapid4ik/RevancedMusic",
+   "text": "YouTube-Music Revanced patching with Revancify Tools (Root & Non-Root)",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": [
+    "magisk-module",
+    "magisk-modules",
+    "revanced",
+    "revanced-builder",
+    "revanced-extended",
+    "revanced-music",
+    "revanced-patches",
+    "youtube-music"
+   ]
+  },
+  {
+   "name": "Paynexa",
+   "url": "https://github.com/rapid4ik/Paynexa",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BykaDesktop",
+   "url": "https://github.com/rapid4ik/BykaDesktop",
+   "text": "Desktop Telegram client with good customization and Ghost mode.",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "BykaClient",
+   "url": "https://github.com/rapid4ik/BykaClient",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Source-Visual-Particle",
+   "url": "https://github.com/rapid4ik/Source-Visual-Particle",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "External_Rust_Cheat_AI",
+   "url": "https://github.com/rapid4ik/External_Rust_Cheat_AI",
+   "text": "An advanced external Rust cheat developed with the assistance of AI (Claude). Features a stealthy Kernel-mode driver for memory reading/writing, bypassing EAC by unlinking from the system and using PTE hooks. Built-in ImGui menu for easy configuration.",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "BoozeNearBy",
+   "url": "https://github.com/rapid4ik/BoozeNearBy",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BoostickCosmetics",
+   "url": "https://github.com/rapid4ik/BoostickCosmetics",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Boostik",
+   "url": "https://github.com/rapid4ik/Boostik",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "EcoLobby",
+   "url": "https://github.com/rapid4ik/EcoLobby",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "linkie-web",
+   "url": "https://github.com/rapid4ik/linkie-web",
+   "text": "The source code of the backend server and frontend webpage of Linkie Web",
+   "fork": true,
+   "stars": 1,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "ColorPickerIDE",
+   "url": "https://github.com/rapid4ik/ColorPickerIDE",
+   "text": "Отображает конечные цвета не только на \"new Color()\"",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "SlVoiceAssistance",
+   "url": "https://github.com/rapid4ik/SlVoiceAssistance",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SlDevYandexMusicRPC",
+   "url": "https://github.com/rapid4ik/SlDevYandexMusicRPC",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SlLuaBridge",
+   "url": "https://github.com/rapid4ik/SlLuaBridge",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SlMiracastSink",
+   "url": "https://github.com/rapid4ik/SlMiracastSink",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TwitchDropsMiner",
+   "url": "https://github.com/rapid4ik/TwitchDropsMiner",
+   "text": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "SlBattlePass",
+   "url": "https://github.com/rapid4ik/SlBattlePass",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "XorDeobfuscator",
+   "url": "https://github.com/rapid4ik/XorDeobfuscator",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "rapid4ik",
+   "url": "https://github.com/rapid4ik/rapid4ik",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vision",
+   "url": "https://github.com/rapid4ik/vision",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}

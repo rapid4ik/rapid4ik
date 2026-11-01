@@ -8,9 +8,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/rapid4ik/RevancedMusic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-revancedmusic-dark.svg"><img src="assets/project-revancedmusic-light.svg" width="49%" alt="RevancedMusic"></picture></a>&nbsp;<a href="https://github.com/rapid4ik/ColorPickerIDE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-colorpickeride-dark.svg"><img src="assets/project-colorpickeride-light.svg" width="49%" alt="ColorPickerIDE"></picture></a>
+
 <a href="https://github.com/rapid4ik/rapid4ik.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rapid4ik-github-io-dark.svg"><img src="assets/project-rapid4ik-github-io-light.svg" width="49%" alt="rapid4ik.github.io"></picture></a>&nbsp;<a href="https://github.com/rapid4ik/MyJavaHelpersClasses"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-myjavahelpersclasses-dark.svg"><img src="assets/project-myjavahelpersclasses-light.svg" width="49%" alt="MyJavaHelpersClasses"></picture></a>
 
-<a href="https://github.com/rapid4ik/SlCore"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-slcore-dark.svg"><img src="assets/project-slcore-light.svg" width="49%" alt="SlCore"></picture></a>&nbsp;<a href="https://github.com/rapid4ik/YouTube-Anti-Freeze"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youtube-anti-freeze-dark.svg"><img src="assets/project-youtube-anti-freeze-light.svg" width="49%" alt="YouTube-Anti-Freeze"></picture></a>
+<a href="https://github.com/rapid4ik/YouTube-Anti-Freeze"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youtube-anti-freeze-dark.svg"><img src="assets/project-youtube-anti-freeze-light.svg" width="49%" alt="YouTube-Anti-Freeze"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
