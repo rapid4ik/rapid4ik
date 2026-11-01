@@ -119,15 +119,7 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/null_unlock"
       }
     ],
     "variant": "chip",
@@ -139,7 +131,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://rapid4ik.github.io",
         "style": "filled"
       },
       {
