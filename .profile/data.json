@@ -1,6 +1,6 @@
 {
- "key": "18ebd7d3",
- "stars": 21,
+ "key": "64a97ed9",
+ "stars": 22,
  "contributions": 828,
  "repos": 26,
  "followers": 7,
@@ -110,9 +110,13 @@
    {
     "c": 0,
     "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -129,7 +133,7 @@
    "url": "https://github.com/rapid4ik/RevancedMusic",
    "text": "YouTube-Music Revanced patching with Revancify Tools (Root & Non-Root)",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Shell",
    "topics": [
     "magisk-module",
@@ -181,6 +185,24 @@
  ],
  "all": [
   {
+   "name": "RevancedMusic",
+   "url": "https://github.com/rapid4ik/RevancedMusic",
+   "text": "YouTube-Music Revanced patching with Revancify Tools (Root & Non-Root)",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": [
+    "magisk-module",
+    "magisk-modules",
+    "revanced",
+    "revanced-builder",
+    "revanced-extended",
+    "revanced-music",
+    "revanced-patches",
+    "youtube-music"
+   ]
+  },
+  {
    "name": "re-extera-pub-last",
    "url": "https://github.com/rapid4ik/re-extera-pub-last",
    "text": "re-extera for last",
@@ -224,24 +246,6 @@
    "stars": 2,
    "language": "HTML",
    "topics": []
-  },
-  {
-   "name": "RevancedMusic",
-   "url": "https://github.com/rapid4ik/RevancedMusic",
-   "text": "YouTube-Music Revanced patching with Revancify Tools (Root & Non-Root)",
-   "fork": false,
-   "stars": 1,
-   "language": "Shell",
-   "topics": [
-    "magisk-module",
-    "magisk-modules",
-    "revanced",
-    "revanced-builder",
-    "revanced-extended",
-    "revanced-music",
-    "revanced-patches",
-    "youtube-music"
-   ]
   },
   {
    "name": "Paynexa",
